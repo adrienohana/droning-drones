@@ -7,12 +7,12 @@ Example
 -------
 In a terminal, run as:
 
-    $ python fly.py
+    $ python fly_yaw.py
 
 Notes
 -----
 Modified by Adrien O'Hana 
-This example plays a chosen scale from our library
+This example plays with different yaw rates 
 
 
 """
