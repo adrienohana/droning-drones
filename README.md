@@ -13,7 +13,7 @@ for gym-pybullet-drones :
 
 - follow the instructions here to install **gym-pybullet-drones** : https://github.com/utiasDSL/gym-pybullet-drones
 - replace folders *control* and *utils* in **gym-pybullet-drones** 
-- run scripts from **examples** 
+- run *fly_scales.py* from **examples** 
 
 for the crazyflie : 
 
