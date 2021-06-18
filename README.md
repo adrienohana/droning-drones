@@ -13,9 +13,9 @@ for gym-pybullet-drones :
 
 - follow the instructions here to install : https://github.com/utiasDSL/gym-pybullet-drones
 - replace files *control* and *utils* in **gym-pybullet-drones** 
-- run scripts from *examples* 
+- run scripts from **examples** 
 
 for the crazyflie : 
 
 - install *cfclient* : https://github.com/bitcraze/crazyflie-clients-python/blob/master/docs/installation/install.md
-- run scripts in *examples/real_cf* 
+- run scripts in **examples/real_cf** 
