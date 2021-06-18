@@ -17,5 +17,5 @@ for gym-pybullet-drones :
 
 for the crazyflie : 
 
-- install *cfclient* : https://github.com/bitcraze/crazyflie-clients-python/blob/master/docs/installation/install.md
+- install **cfclient** : https://github.com/bitcraze/crazyflie-clients-python/blob/master/docs/installation/install.md
 - run scripts in **examples/real_cf** 
